@@ -1,4 +1,4 @@
-# Multiple Image stitching in Python
+# Multiple Image stitching to Paranomic image in Python
 
 
 ### Requirements : 
