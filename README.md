@@ -5,7 +5,7 @@
 
 - Python 2.7
 - Numpy >= 1.8 
-- OpenCV 3.1.0 
+- OpenCV 3.1.0 contrib
 
 
 ### Project Structure : 
