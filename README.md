@@ -6,6 +6,7 @@
 - Python 2.7
 - Numpy >= 1.8 
 - OpenCV 3.1.0 contrib
+'pip install opencv-contrib-python'
 
 
 ### Project Structure : 
